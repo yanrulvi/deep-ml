@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:09:46.205Z",
+  "generated_at": "2026-09-17T11:22:00.704Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -104,6 +104,19 @@
       "last_pushed_at": "2026-09-17T11:09:45.497Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:1358": {
+      "kind": "problem",
+      "id": "1358",
+      "title": "Omitted-Variable Bias",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1358",
+      "path": "problems/1358-omitted-variable-bias",
+      "first_solved_at": "2026-09-17T11:21:59.489Z",
+      "last_pushed_at": "2026-09-17T11:21:59.489Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
