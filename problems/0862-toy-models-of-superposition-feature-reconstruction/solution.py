@@ -16,4 +16,4 @@ def superposition_reconstruct(W, b, X):
     W = np.array(W)
     b = np.array(b)
     X = np.array(X)
-    return np.maximum(X @ (W.T @ W) + np.eye(b.shape[0]) @ b, 0)
+    return np.maximum(X @ (W.T @ W) + b, 0)
