@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:24:25.231Z",
+  "generated_at": "2026-09-18T15:11:14.963Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -154,6 +154,19 @@
       "path": "problems/0862-toy-models-of-superposition-feature-reconstruction",
       "first_solved_at": "2026-09-18T08:23:16.460Z",
       "last_pushed_at": "2026-09-18T08:24:24.581Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-09-18T15:11:12.957Z",
+      "last_pushed_at": "2026-09-18T15:11:12.957Z",
       "language": "python",
       "lines": 20
     }
